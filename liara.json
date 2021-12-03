@@ -1,0 +1,5 @@
+{
+  "platform": "node",
+  "app": "wallet",
+  "port": 80
+}

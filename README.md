@@ -1,1 +1,1 @@
-# wallet_bazro
+# wallet
